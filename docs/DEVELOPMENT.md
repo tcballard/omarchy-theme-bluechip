@@ -1,15 +1,7 @@
-# Develop and test the theme
+# Development
 
-Run `./tests/run` after palette edits. Use the theme bundle's current palette and shell skills when refining it. The included original Moss palette is a starting point, not a new finished theme.
+Run `./tests/run` after changes. Keep `colors.toml` as the source of truth; use Omarchy stock templates for application configuration.
 
-Before installation, record the currently selected theme/background and preserve local modifications. After publishing your initialized repository, the normal command is:
+Install with `omarchy-theme-install https://github.com/tcballard/omarchy-theme-bluechip` after preserving any local BlueChip edits and recording the current theme/background. Switch back to the prior theme to roll back.
 
-```bash
-omarchy theme install https://github.com/tcballard/omarchy-theme-template
-```
-
-Verify that command against your installed Omarchy version first. It applies the theme and can replace an existing same-name theme directory. This command has not been run for this starter.
-
-Test the Git-installed path, theme switching, lock screen, terminals and the applications you support. Capture a real desktop preview after testing. To roll back, switch to the previously recorded theme/background; remove only this theme's installed directory after preserving local edits. No global configuration or removal script is included.
-
-Use the current Omarchy Theme Registry contract before submission, including its current repository-name/slug rules. The bootstrap repo name is configurable; a common registry convention is omarchy-SLUG-theme. Template creation does not reserve a slug or submit a listing.
+See VALIDATION.md for the headless tests already run. Test theme switching, terminals, lock screen, editors and the XPS display in a real Quattro session before marking ACCEPTANCE.json passed. Capture a genuine desktop screenshot for a future preview. No registry submission or live acceptance is implied by this repository.

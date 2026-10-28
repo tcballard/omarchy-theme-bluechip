@@ -1,7 +1,7 @@
 # Architecture
 
-`colors.toml` is the source semantic palette. Omarchy derives supported application configuration from it; do not edit generated current-theme output.
+`colors.toml` is the flat semantic palette. Omarchy renders its own application templates on selection. `icons.theme` selects Yaru-blue; `chromium.theme` supplies the intended navy browser tint. No custom executable Lua or startup hooks are shipped.
 
-The starter includes no shell overrides, install hooks, Lua, wallpapers or preview. Add licensed media under backgrounds and record its provenance in CREDITS.md. Add section-specific shell overrides only after verifying the target Omarchy contract.
+`backgrounds/` contains ten 16:10 PNG wallpapers. Alphabetic ordering selects the monochrome pressed-metal composition first. Editable logo compositions live under `docs/design-sources/`.
 
-The portable validator accepts flat quoted hex colours and checks text contrast. It is not a complete TOML parser or registry validator.
+Authoring scripts, tests and docs are excluded from Git archives by export-ignore. Direct Git-based Omarchy installation may stage documentation, but no authoring code is invoked by the theme. Never edit generated current-theme files as the source of truth.

@@ -1,12 +1,17 @@
-# Credits and provenance
+# BlueChip credits and sources
 
-Original starter; no external product inspiration has been declared. Add prominent credit here when adapting an existing project.
+Concept direction: Tom Ballard. Palette, packaging and original compositions prepared with ChatGPT.
 
-Template authorship: Tom Ballard, 2026, MIT. Preserve this attribution when adapting the starter.
-Project author: Tom Ballard.
+The six generated scenes were created during the BlueChip concept conversation. The four vector-based logo compositions preserve the supplied official mark geometry and were composed/rendered as SVG; SVG sources are included. The 16:10 wallpaper exports add navy padding without altering the underlying composition.
 
-- theme conventions: [build-omarchy-themes](https://github.com/tcballard/build-omarchy-themes).
-- Community badge artwork: [omarchy-badges](https://github.com/tcballard/omarchy-badges), pinned to 75975e5b5bf75e7ede3764bcd2950046f7abfe2c. No badge artwork is bundled.
-- Palette: original Moss starter from Build Omarchy Themes (MIT).
+Logo sources:
+- Omarchy symbol: https://omarchy.org/brand/omarchy-logo.svg
+- Anduril symbol asset: https://companieslogo.com/img/orig/anduril.D-b952398a.svg?download=true&t=1720244494
 
-No third-party wallpapers, screenshots or product logos are bundled. Record source URLs, creator, licence and redistribution permission for any added assets. Crediting an inspiration does not grant permission to copy its code or artwork.
+Omarchy and Anduril marks belong to their respective owners. This package does not claim ownership of those marks or imply endorsement. No blanket third-party asset licence is asserted. The generated flag/blueprint scenes are decorative concepts, not certified flag geometry or engineering drawings.
+
+Theme-format and template compatibility reference: https://github.com/basecamp/omarchy/tree/b79c846e364aa71c708d7671afa9fb07026cde5e
+
+The upstream application templates are not bundled; the user's Omarchy installation generates them from the supplied palette.
+
+Template authorship: Tom Ballard, 2026, MIT. Based on https://github.com/tcballard/omarchy-theme-template.

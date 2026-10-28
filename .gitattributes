@@ -1,1 +1,10 @@
 * text=auto eol=lf
+*.png binary
+*.jpg binary
+.template export-ignore
+.github export-ignore
+scripts export-ignore
+tests export-ignore
+docs export-ignore
+AGENTS.md export-ignore
+CONTRIBUTING.md export-ignore

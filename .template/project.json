@@ -3,13 +3,13 @@
   "templateVersion": "0.1.0",
   "kind": "theme",
   "owner": "tcballard",
-  "repo": "omarchy-theme-template",
-  "slug": "omarchy-theme-starter",
-  "name": "Omarchy Theme Starter",
+  "repo": "omarchy-theme-bluechip",
+  "slug": "bluechip",
+  "name": "BlueChip",
   "author": "Tom Ballard",
-  "id": "io.github.tcballard.theme_starter",
-  "description": "An original semantic palette to develop into your own Omarchy theme.",
+  "id": "io.github.tcballard.bluechip",
+  "description": "Pressed steel and faded Americana for Omarchy Quattro.",
   "year": "2026",
   "inspiration": "",
-  "initialized": false
+  "initialized": true
 }

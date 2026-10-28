@@ -1,0 +1,112 @@
+[
+  {
+    "name": "00-pressed-metal-monochrome",
+    "original": [
+      3840,
+      2160
+    ],
+    "output": [
+      3840,
+      2400
+    ]
+  },
+  {
+    "name": "01-collaboration-pressed-metal",
+    "original": [
+      3840,
+      2160
+    ],
+    "output": [
+      3840,
+      2400
+    ]
+  },
+  {
+    "name": "02-collaboration-laser-etched",
+    "original": [
+      3840,
+      2160
+    ],
+    "output": [
+      3840,
+      2400
+    ]
+  },
+  {
+    "name": "03-omarchy-flag",
+    "original": [
+      3840,
+      2160
+    ],
+    "output": [
+      3840,
+      2400
+    ]
+  },
+  {
+    "name": "04-maximum-freedom",
+    "original": [
+      1672,
+      941
+    ],
+    "output": [
+      1672,
+      1045
+    ]
+  },
+  {
+    "name": "05-second-shift",
+    "original": [
+      1672,
+      941
+    ],
+    "output": [
+      1672,
+      1045
+    ]
+  },
+  {
+    "name": "06-old-glory-faded",
+    "original": [
+      1672,
+      941
+    ],
+    "output": [
+      1672,
+      1045
+    ]
+  },
+  {
+    "name": "07-old-glory-pressed-metal",
+    "original": [
+      1672,
+      941
+    ],
+    "output": [
+      1672,
+      1045
+    ]
+  },
+  {
+    "name": "08-old-glory-blueprint",
+    "original": [
+      1672,
+      941
+    ],
+    "output": [
+      1672,
+      1045
+    ]
+  },
+  {
+    "name": "09-old-glory-laser-etched",
+    "original": [
+      1672,
+      941
+    ],
+    "output": [
+      1672,
+      1045
+    ]
+  }
+]

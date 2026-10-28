@@ -1,3 +1,3 @@
 # Wallpapers
 
-Place licensed wallpaper files directly in this directory and record source, creator, licence and redistribution permission in CREDITS.md. This starter intentionally bundles no wallpaper and makes no media-rights claim.
+Ten selected BlueChip designs. The first file is the monochrome pressed-metal default. Source dimensions and export details are in docs/wallpaper-manifest.json; provenance is in CREDITS.md.
