@@ -1,112 +1,623 @@
 [
   {
     "name": "00-pressed-metal-monochrome",
-    "original": [
-      3840,
-      2160
+    "source_sha256": "77fa2ff30bcc52554ebd7d101cf4dd085aedf77a8dc2593b0224368319592426",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      3840,
-      2400
-    ]
+    "method": "vector",
+    "passes": 0,
+    "optional": false,
+    "path": "backgrounds/00-pressed-metal-monochrome.webp",
+    "png_master_sha256": "d9bca4a9ca12c9db77c3a8ce243651b00b3d21e43f2476f2d774f2547201f7ea",
+    "png_master_bytes": 3136050,
+    "bytes": 296730,
+    "export_sha256": "ab25debe0c0d08de9489982fa9a0d1c4490576cca0450e78b893c7f3c3026280",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 50.49
+    }
   },
   {
     "name": "01-collaboration-pressed-metal",
-    "original": [
-      3840,
-      2160
+    "source_sha256": "bfdec1777f485600c0015251eee560799d91368a19fad237bcd394e08483f59b",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      3840,
-      2400
-    ]
+    "method": "vector",
+    "passes": 0,
+    "optional": false,
+    "path": "backgrounds/01-collaboration-pressed-metal.webp",
+    "png_master_sha256": "7fe1394c2d4e30f6d2b1848733cb7f8302e7e22ab9250f02ec98af7898740f28",
+    "png_master_bytes": 3122617,
+    "bytes": 299826,
+    "export_sha256": "6ff400d28f886e0322f85144141ade8ddeef4b96a46a7705e0837d833738100d",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 49.49
+    }
   },
   {
     "name": "02-collaboration-laser-etched",
-    "original": [
-      3840,
-      2160
+    "source_sha256": "d5de5f3a6a52b14a3d6df4a3ee39158cb3911a768c6c6d33f0fbad2e9f43b253",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      3840,
-      2400
-    ]
+    "method": "vector",
+    "passes": 0,
+    "optional": false,
+    "path": "backgrounds/02-collaboration-laser-etched.webp",
+    "png_master_sha256": "f5de5f28ddb33bc8de6e290b05050f576093611b83b54cbc522bebba132a7208",
+    "png_master_bytes": 3138176,
+    "bytes": 410308,
+    "export_sha256": "91e6b33f96b1c0d29c47cf9cd9930775008892270edf81148f24dd5ed099c474",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 49.32
+    }
   },
   {
     "name": "03-omarchy-flag",
-    "original": [
-      3840,
-      2160
+    "source_sha256": "b94e0487818a27c89875e7431d186d3872c093200e748ba818829eec8c1f5f0b",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      3840,
-      2400
-    ]
+    "method": "vector",
+    "passes": 0,
+    "optional": false,
+    "path": "backgrounds/03-omarchy-flag.webp",
+    "png_master_sha256": "06d7d8ff9a4edc01ee1891dce83f4f99bca0d946392dac2ba74a6cf971eb51ae",
+    "png_master_bytes": 2411543,
+    "bytes": 264164,
+    "export_sha256": "ccf70b441558d76ec725e14d67f10831248b08dc64ff069809d8a836deddcf95",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 48.98
+    }
   },
   {
     "name": "04-maximum-freedom",
-    "original": [
-      1672,
-      941
+    "source_sha256": "b37bdafc185990e5541310e29c12a643749fc1338696fd31310962fa82528d08",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      1672,
-      1045
-    ]
+    "method": "contextual",
+    "passes": 2,
+    "optional": false,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 4,
+      "rejected": 5,
+      "native_dimensions": [
+        [
+          1466,
+          1073
+        ],
+        [
+          1586,
+          992
+        ],
+        [
+          1716,
+          917
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 4,
+      "rejected": 0,
+      "native_dimensions": [
+        [
+          1298,
+          1212
+        ],
+        [
+          1391,
+          1131
+        ],
+        [
+          1438,
+          1093
+        ],
+        [
+          1457,
+          1080
+        ]
+      ]
+    },
+    "path": "backgrounds/04-maximum-freedom.webp",
+    "png_master_sha256": "267805a9034aea926b4fdb5a000ec95c3ec938af76b3f2689186d121d7fe9525",
+    "png_master_bytes": 36140213,
+    "bytes": 6346564,
+    "export_sha256": "eaa592b2c0cb676192452074e82be30e956f6d7203ad2679a175b948f55c028b",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 43.37
+    }
   },
   {
     "name": "05-second-shift",
-    "original": [
-      1672,
-      941
+    "source_sha256": "73012d18bbbf7951f51dab82addd650a9e199d9e6229110bb5670cf5d593faa0",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      1672,
-      1045
-    ]
+    "method": "contextual",
+    "passes": 2,
+    "optional": false,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 4,
+      "rejected": 5,
+      "native_dimensions": [
+        [
+          1466,
+          1073
+        ],
+        [
+          1586,
+          992
+        ],
+        [
+          1716,
+          917
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 3,
+      "rejected": 1,
+      "native_dimensions": [
+        [
+          958,
+          1642
+        ],
+        [
+          1193,
+          1319
+        ],
+        [
+          1208,
+          1302
+        ],
+        [
+          1738,
+          905
+        ]
+      ]
+    },
+    "path": "backgrounds/05-second-shift.webp",
+    "png_master_sha256": "64180be57a76adff08d0c28d93b062bcf1da8f42d36902efb048137be290cc9b",
+    "png_master_bytes": 40621643,
+    "bytes": 7551472,
+    "export_sha256": "0dbfb982c0bf491ff7ef67bc46aeb4c5982a3d4eafca4c37e24ec8d292d7d36d",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 41.69
+    }
   },
   {
     "name": "06-old-glory-faded",
-    "original": [
-      1672,
-      941
+    "source_sha256": "0aa052dd43a0214d70630cbee95d145311c0a23593a316872afe295309ba857e",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      1672,
-      1045
-    ]
+    "method": "contextual",
+    "passes": 2,
+    "optional": false,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 5,
+      "rejected": 4,
+      "native_dimensions": [
+        [
+          1465,
+          1073
+        ],
+        [
+          1466,
+          1073
+        ],
+        [
+          1585,
+          992
+        ],
+        [
+          1586,
+          992
+        ],
+        [
+          1716,
+          917
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 4,
+      "rejected": 0,
+      "native_dimensions": [
+        [
+          1287,
+          1222
+        ],
+        [
+          1374,
+          1145
+        ],
+        [
+          1402,
+          1122
+        ],
+        [
+          1438,
+          1094
+        ]
+      ]
+    },
+    "final_harmonization": {
+      "postblend_strength": 0.45,
+      "prior": "M1.png",
+      "candidate": "M2-strong-candidate.png",
+      "reason": "Reduce abrupt sharpness differences between generated detail and preserved source regions. Source-limited areas remain softer at 100%."
+    },
+    "path": "backgrounds/06-old-glory-faded.webp",
+    "png_master_sha256": "edada5955b9898a59c9f31e5df43304dfb1a4ad7d204b1fb1c1f455beb653127",
+    "png_master_bytes": 49299726,
+    "bytes": 9318320,
+    "export_sha256": "03377b8678823a7775aa6e9fe8d3c896042d847ad6ca074d39a4314839241c72",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 43.64
+    }
   },
   {
     "name": "07-old-glory-pressed-metal",
-    "original": [
-      1672,
-      941
+    "source_sha256": "36023dedd3d1cf89dc43d6eebe8139936279c1fda97089e50459d9ad26f65733",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      1672,
-      1045
-    ]
+    "method": "contextual",
+    "passes": 2,
+    "optional": false,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 5,
+      "rejected": 4,
+      "native_dimensions": [
+        [
+          1465,
+          1073
+        ],
+        [
+          1466,
+          1073
+        ],
+        [
+          1584,
+          993
+        ],
+        [
+          1585,
+          992
+        ],
+        [
+          1586,
+          992
+        ],
+        [
+          1716,
+          917
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 3,
+      "rejected": 1,
+      "native_dimensions": [
+        [
+          1287,
+          1222
+        ],
+        [
+          1835,
+          857
+        ],
+        [
+          1836,
+          857
+        ],
+        [
+          1904,
+          826
+        ]
+      ]
+    },
+    "final_harmonization": {
+      "postblend_strength": 0.45,
+      "prior": "M1.png",
+      "candidate": "M2-strong-candidate.png",
+      "reason": "Reduce abrupt sharpness differences between generated detail and preserved source regions. Source-limited areas remain softer at 100%."
+    },
+    "path": "backgrounds/07-old-glory-pressed-metal.webp",
+    "png_master_sha256": "72b0d928f94b79eba76e670365fc8a63884cab0a029f22fe6a6959f07056d780",
+    "png_master_bytes": 33306173,
+    "bytes": 5113104,
+    "export_sha256": "e3fb65b6a995f40fa65749230c3e7377f3f5ee99c2b32ecc58b884c6e59b4543",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 45.74
+    }
   },
   {
     "name": "08-old-glory-blueprint",
-    "original": [
-      1672,
-      941
+    "source_sha256": "acaaccb022c8518c679749b7366b2ff0b89f11ed4adcec987b8f182f9780f563",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      1672,
-      1045
-    ]
+    "method": "contextual",
+    "passes": 2,
+    "optional": false,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 6,
+      "rejected": 3,
+      "native_dimensions": [
+        [
+          1465,
+          1073
+        ],
+        [
+          1466,
+          1073
+        ],
+        [
+          1584,
+          993
+        ],
+        [
+          1585,
+          992
+        ],
+        [
+          1586,
+          992
+        ],
+        [
+          1716,
+          917
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 3,
+      "rejected": 1,
+      "native_dimensions": [
+        [
+          1254,
+          1254
+        ],
+        [
+          1675,
+          939
+        ],
+        [
+          2171,
+          724
+        ],
+        [
+          2172,
+          724
+        ]
+      ]
+    },
+    "final_harmonization": {
+      "postblend_strength": 0.45,
+      "prior": "M1.png",
+      "candidate": "M2-strong-candidate.png",
+      "reason": "Reduce abrupt sharpness differences between generated detail and preserved source regions. Source-limited areas remain softer at 100%."
+    },
+    "path": "backgrounds/08-old-glory-blueprint.webp",
+    "png_master_sha256": "301e88e66bc86a64ef6411ae9cb937d4db315b5c8292f3b329e41ad4a09d26dd",
+    "png_master_bytes": 37979090,
+    "bytes": 6616364,
+    "export_sha256": "186858ae1717857d153a7f81ebd533be55d1adb567cf90dc6899190b53b734c6",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 43.01
+    }
   },
   {
     "name": "09-old-glory-laser-etched",
-    "original": [
-      1672,
-      941
+    "source_sha256": "e5810fe0314262f3e278a85fca3dcd5a617b76e7f98f06836544e434dbc95a94",
+    "dimensions": [
+      8192,
+      5120
     ],
-    "output": [
-      1672,
-      1045
-    ]
+    "method": "contextual",
+    "passes": 2,
+    "optional": false,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 7,
+      "rejected": 2,
+      "native_dimensions": [
+        [
+          1466,
+          1073
+        ],
+        [
+          1584,
+          993
+        ],
+        [
+          1585,
+          992
+        ],
+        [
+          1586,
+          992
+        ],
+        [
+          1716,
+          917
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 3,
+      "rejected": 1,
+      "native_dimensions": [
+        [
+          1287,
+          1222
+        ],
+        [
+          1836,
+          857
+        ],
+        [
+          1904,
+          826
+        ]
+      ]
+    },
+    "final_harmonization": {
+      "postblend_strength": 0.45,
+      "prior": "M1.png",
+      "candidate": "M2-strong-candidate.png",
+      "reason": "Reduce abrupt sharpness differences between generated detail and preserved source regions. Source-limited areas remain softer at 100%."
+    },
+    "path": "backgrounds/09-old-glory-laser-etched.webp",
+    "png_master_sha256": "1706ef3c60832958474cf997802a8a024eeda4aa5774aec929035163b209445f",
+    "png_master_bytes": 47233272,
+    "bytes": 8843810,
+    "export_sha256": "c2a51535e7b24c56114b49bd6f30b3fb1970c269aa8fc4effe6d880373df1160",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 44.49
+    }
+  },
+  {
+    "name": "10-stars-and-stripes-flight",
+    "source_sha256": "9e4e79db12fcc1eb3f5a4e3b6b5767372e30348bc951468f4057e2af0cf185dd",
+    "dimensions": [
+      8192,
+      4608
+    ],
+    "method": "contextual-photographic",
+    "passes": 2,
+    "optional": true,
+    "pass1": {
+      "attempted": 9,
+      "accepted": 5,
+      "rejected": 4,
+      "native_dimensions": [
+        [
+          1546,
+          1017
+        ],
+        [
+          1669,
+          942
+        ],
+        [
+          1670,
+          941
+        ],
+        [
+          1670,
+          942
+        ],
+        [
+          1804,
+          872
+        ]
+      ]
+    },
+    "pass2": {
+      "attempted": 4,
+      "accepted": 4,
+      "rejected": 0,
+      "native_dimensions": [
+        [
+          1178,
+          1335
+        ],
+        [
+          1181,
+          1331
+        ],
+        [
+          1407,
+          1118
+        ],
+        [
+          2010,
+          782
+        ]
+      ]
+    },
+    "final_harmonization": {
+      "postblend_strength": 0.45,
+      "prior": "M1.png",
+      "candidate": "M2-strong-candidate.png",
+      "reason": "Reduce abrupt sharpness differences between generated detail and preserved source regions. Source-limited areas remain softer at 100%."
+    },
+    "path": "optional/10-stars-and-stripes-flight.webp",
+    "png_master_sha256": "a1085c94af7f581ea51bedc6ace9a5d625f95f5eec07a0f6fa86f9db61efae32",
+    "png_master_bytes": 16088227,
+    "bytes": 2058934,
+    "export_sha256": "c0cc27b397dd995cb0c7ca0416f8d8396129079e1d590cb538520ca612887125",
+    "delivery_encoding": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "lossless": false,
+      "psnr_db": 47.92
+    }
   }
 ]

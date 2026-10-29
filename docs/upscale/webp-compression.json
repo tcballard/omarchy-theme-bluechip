@@ -1,0 +1,123 @@
+[
+  {
+    "path": "backgrounds/00-pressed-metal-monochrome.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 3136050,
+    "webp_bytes": 296730,
+    "sha256": "ab25debe0c0d08de9489982fa9a0d1c4490576cca0450e78b893c7f3c3026280",
+    "psnr_db": 50.49
+  },
+  {
+    "path": "backgrounds/01-collaboration-pressed-metal.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 3122617,
+    "webp_bytes": 299826,
+    "sha256": "6ff400d28f886e0322f85144141ade8ddeef4b96a46a7705e0837d833738100d",
+    "psnr_db": 49.49
+  },
+  {
+    "path": "backgrounds/02-collaboration-laser-etched.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 3138176,
+    "webp_bytes": 410308,
+    "sha256": "91e6b33f96b1c0d29c47cf9cd9930775008892270edf81148f24dd5ed099c474",
+    "psnr_db": 49.32
+  },
+  {
+    "path": "backgrounds/03-omarchy-flag.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 2411543,
+    "webp_bytes": 264164,
+    "sha256": "ccf70b441558d76ec725e14d67f10831248b08dc64ff069809d8a836deddcf95",
+    "psnr_db": 48.98
+  },
+  {
+    "path": "backgrounds/04-maximum-freedom.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 36140213,
+    "webp_bytes": 6346564,
+    "sha256": "eaa592b2c0cb676192452074e82be30e956f6d7203ad2679a175b948f55c028b",
+    "psnr_db": 43.37
+  },
+  {
+    "path": "backgrounds/05-second-shift.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 40621643,
+    "webp_bytes": 7551472,
+    "sha256": "0dbfb982c0bf491ff7ef67bc46aeb4c5982a3d4eafca4c37e24ec8d292d7d36d",
+    "psnr_db": 41.69
+  },
+  {
+    "path": "backgrounds/06-old-glory-faded.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 49299726,
+    "webp_bytes": 9318320,
+    "sha256": "03377b8678823a7775aa6e9fe8d3c896042d847ad6ca074d39a4314839241c72",
+    "psnr_db": 43.64
+  },
+  {
+    "path": "backgrounds/07-old-glory-pressed-metal.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 33306173,
+    "webp_bytes": 5113104,
+    "sha256": "e3fb65b6a995f40fa65749230c3e7377f3f5ee99c2b32ecc58b884c6e59b4543",
+    "psnr_db": 45.74
+  },
+  {
+    "path": "backgrounds/08-old-glory-blueprint.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 37979090,
+    "webp_bytes": 6616364,
+    "sha256": "186858ae1717857d153a7f81ebd533be55d1adb567cf90dc6899190b53b734c6",
+    "psnr_db": 43.01
+  },
+  {
+    "path": "backgrounds/09-old-glory-laser-etched.webp",
+    "dimensions": [
+      8192,
+      5120
+    ],
+    "png_bytes": 47233272,
+    "webp_bytes": 8843810,
+    "sha256": "c2a51535e7b24c56114b49bd6f30b3fb1970c269aa8fc4effe6d880373df1160",
+    "psnr_db": 44.49
+  },
+  {
+    "path": "optional/10-stars-and-stripes-flight.webp",
+    "dimensions": [
+      8192,
+      4608
+    ],
+    "png_bytes": 16088227,
+    "webp_bytes": 2058934,
+    "sha256": "c0cc27b397dd995cb0c7ca0416f8d8396129079e1d590cb538520ca612887125",
+    "psnr_db": 47.92
+  }
+]
