@@ -4,9 +4,9 @@
 
 <p align="center"><a href="https://github.com/tcballard/omarchy-badges"><img alt="Built for Omarchy: Theme" height="20" src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg"></a></p>
 
-![BlueChip monochrome pressed-metal wallpaper](backgrounds/00-pressed-metal-monochrome.png)
+![BlueChip monochrome pressed-metal wallpaper](docs/previews/00-pressed-metal-monochrome-preview.jpg)
 
-A dark navy theme with warm ivory text, steel-blue accents and ten wallpapers. The default puts the Omarchy × Anduril symbols into one monochrome metal surface, including the ×, underline and trim. The image above is artwork, not a live desktop screenshot.
+A dark navy theme with warm ivory text, steel-blue accents and ten 8K wallpapers, plus an optional aviation extra. The default puts the Omarchy × Anduril symbols into one monochrome metal surface, including the ×, underline and trim. The image above is artwork, not a live desktop screenshot.
 
 ## Install
 
@@ -31,7 +31,29 @@ Back up any existing BlueChip theme and note your current theme/background first
 - Old Glory — Blueprint
 - Old Glory — Laser Etched
 
-All images are padded to 16:10 without cropping or enlargement. The four logo compositions are 3840 × 2400; the six generated scenes are 1672 × 1045. Terminal errors, warnings and syntax retain distinct semantic colours for readability. No monitor scaling or keyboard shortcuts are changed.
+The quality-95 WebP wallpapers total 47.1 MB across all eleven designs. The ten theme wallpapers are 8192 × 5120 (16:10), preserving the composition and navy padding. Logo designs were rerendered from SVG; scenes received two contextual enhancement passes. Added detail is AI-reconstructed, with softer source regions retained where edits were unreliable. [Processing notes and prompts](docs/upscale/README.md) · [Dimensions and checksums](docs/wallpaper-manifest.json). Terminal errors, warnings and syntax retain distinct semantic colours for readability. No monitor scaling or keyboard shortcuts are changed.
+
+## Eagle entrance
+
+[Watch the five-second preview](docs/previews/bluechip-eagle-swoop-preview.mp4). Maximum Freedom has a roughly three-second 2D eagle swoop that settles into the static wallpaper. The smoke is painted artwork, not a particle simulation.
+
+The matching clip is `backgrounds/intros/04-maximum-freedom.mp4`. Omarchy builds with native background intros resolve it automatically and respect disabled animations/intros. Older builds can use the WebP independently. Actual XPS playback remains untested; no custom startup hook is installed.
+
+## Optional aviation wallpaper
+
+[Stars and Stripes Flight](optional/10-stars-and-stripes-flight.webp) is 8192 × 4608 (16:9). It stays outside the default wallpaper rotation. To include it after installing:
+
+```bash
+cp ~/.config/omarchy/themes/theme-bluechip/optional/10-stars-and-stripes-flight.webp ~/.config/omarchy/themes/theme-bluechip/backgrounds/
+```
+
+Reselect the theme to refresh its staged backgrounds. The photograph was supplied by Tom; added detail is interpretive. See [credits](CREDITS.md).
+
+## Collaboration shortlist
+
+Monochrome pressed metal remains the default; laser etched is the recommended alternate. Coloured pressed metal remains available.
+
+![Collaboration comparison](docs/previews/bluechip-collab-shortlist.jpg)
 
 ## Compatibility
 

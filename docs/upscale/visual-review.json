@@ -1,0 +1,57 @@
+[
+  {
+    "name": "00-pressed-metal-monochrome",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "SVG rerender preserves vector geometry."
+  },
+  {
+    "name": "01-collaboration-pressed-metal",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "SVG rerender preserves vector geometry."
+  },
+  {
+    "name": "02-collaboration-laser-etched",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "SVG rerender preserves vector geometry."
+  },
+  {
+    "name": "03-omarchy-flag",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "SVG rerender preserves vector geometry."
+  },
+  {
+    "name": "04-maximum-freedom",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  },
+  {
+    "name": "05-second-shift",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  },
+  {
+    "name": "06-old-glory-faded",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  },
+  {
+    "name": "07-old-glory-pressed-metal",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  },
+  {
+    "name": "08-old-glory-blueprint",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  },
+  {
+    "name": "09-old-glory-laser-etched",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  },
+  {
+    "name": "10-stars-and-stripes-flight",
+    "full_frame_review": "Composition retained; checked at display size.",
+    "pixel_review": "Detail and feather boundaries reviewed. Source-limited areas remain softer than AI-reconstructed areas."
+  }
+]

@@ -1,6 +1,8 @@
 * text=auto eol=lf
 *.png binary
 *.jpg binary
+*.mp4 binary
+*.webp binary
 .template export-ignore
 .github export-ignore
 scripts export-ignore

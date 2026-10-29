@@ -15,3 +15,11 @@ Theme-format and template compatibility reference: https://github.com/basecamp/o
 The upstream application templates are not bundled; the user's Omarchy installation generates them from the supplied palette.
 
 Template authorship: Tom Ballard, 2026, MIT. Based on https://github.com/tcballard/omarchy-theme-template.
+
+## 8K edition
+
+October 2026: four SVG designs rerendered at 8192 × 5120; six concept scenes and the optional photo enhanced with two contextual image-edit passes. Native generated crops were assembled and enlarged to the final dimensions. AI detail is reconstructed, not recovered evidence.
+
+Stars and Stripes Flight was supplied by Tom Ballard. Its photographer, source URL and redistribution licence were not provided; no blanket licence is asserted for this photograph. The supplied sky and framing are preserved.
+
+The eagle intro is a layered 2D glide into the final still with painted smoke. The native intro path was checked against `omacom/omarchy`'s `bin/omarchy-theme-bg-boot-intro` on 29 October 2026.
